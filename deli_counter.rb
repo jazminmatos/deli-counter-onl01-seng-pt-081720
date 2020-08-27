@@ -25,3 +25,5 @@ def now_serving(array)
     puts "Currently serving #{person}."
   end
 end
+
+#takes in two argue
